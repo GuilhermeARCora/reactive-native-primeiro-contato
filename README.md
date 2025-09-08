@@ -68,8 +68,6 @@ nome-do-projeto/
 
 ---
 
----
-
 ## 🛠️ Dicas úteis
 
 ### 🔄 Resetando dependências
@@ -83,11 +81,7 @@ npm install
 
 ---
 
----
-
 ## 📖 Referências
 
 - [Documentação do Expo](https://docs.expo.dev/)  
 - [React Native Docs](https://reactnative.dev/)  
-
---- 
